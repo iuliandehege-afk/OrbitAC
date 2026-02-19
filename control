@@ -1,0 +1,7 @@
+Package: com.yourname.orbitac
+Name: OrbitAC
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iuliandehege-afk
+Description: A tweak for controlling OrbitAC functionalities.
+Depends: mobilesubstrate
